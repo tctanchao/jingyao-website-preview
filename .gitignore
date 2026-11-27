@@ -1,0 +1,11 @@
+.env
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+*.tar.gz
+*.zip
+baseline.json
+preview-rd-*/
+__pycache__/
